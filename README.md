@@ -1,6 +1,6 @@
 # Vue 3 + TypeScript + Vite
 
-This template should help get you started developing with Vue 3 without SFC and TypeScript in Vite.
+This template should help get you started developing with SFC-less Vue 3 and TypeScript in Vite.
 
 The template uses Vue 3 Composition API with `vue-tsx-macros` that brings typescript specific `<script setup>` features to `.tsx` files (like defining props using type declarations - `defineProps`).
 
