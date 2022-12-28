@@ -4,7 +4,7 @@ This template should help get you started developing with SFC-less Vue 3 and Typ
 
 The template uses Vue 3 Composition API with `vue-tsx-macros` that brings typescript specific `<script setup>` features to `.tsx` files (like defining props using type declarations - `defineProps`).
 
-That allows you to remove burdensome tooling like `vue-tsc` / `Volar` and still get same experience in terms of type-safety.
+In other words, it does not use burdensome tooling like `vue-tsc` / `Volar`, but still provides same experience in terms of type-safety.
 
 Check out the [docs](https://github.com/madeofsun/vue-tsx-macros) to learn more.
 
